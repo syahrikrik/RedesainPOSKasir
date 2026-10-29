@@ -1,0 +1,10 @@
+{
+  "description": "A streamlined point-of-sale app helps cashiers manage orders and adjust item quantities quickly with a cohesive, easy-to-use interface.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
